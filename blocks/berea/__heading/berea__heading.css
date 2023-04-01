@@ -1,0 +1,15 @@
+.berea__heading {
+    width: 58px;
+    height: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    /* identical to box height */
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #AAAAAA;
+    margin: 0;
+    text-decoration: none;
+    margin-bottom: 8px;
+    }

@@ -1,0 +1,6 @@
+.muramvya__text-conteiner {
+    display: flex;
+    grid-row: 2 / 5;
+    flex-direction: column;
+    justify-content: space-between;
+}

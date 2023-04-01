@@ -1,0 +1,17 @@
+.novo_hamburgo__link {
+width: 315px;
+height: 22px;    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+color: #FFFFFF;
+margin: 0;
+padding: 13px 20px;
+background: #0278FE;
+text-decoration: none;
+text-align: center;
+margin: 0;
+    }
