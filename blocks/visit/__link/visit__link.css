@@ -7,13 +7,12 @@
   line-height: 22px;
   padding: 13px 20px;
   background-color: #0278FE;
-  /* identical to box height */
   color: #FFFFFF;
   margin: 0;
   text-decoration: none;
   }
 
-  .visit__link:hover {
+.visit__link:hover {
 background: #0063D2;;
 border-radius: 4px;
   }

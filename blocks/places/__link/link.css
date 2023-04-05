@@ -5,16 +5,15 @@
     font-weight: 600;
     font-size: 18px;
     line-height: 22px;
-    /* identical to box height */
     color: #FFFFFF;
     padding: 13px 20px;
     background: #0278FE;
     text-decoration: none;
     text-align: center;
-    
-    }
+    display: flex;
+}
 
-    .link:hover {
+    .places__link:hover {
         background: #0063D2;
         border-radius: 4px;
     }

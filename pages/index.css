@@ -21,7 +21,7 @@
 @import url(../blocks/places/title/places__title.css);
 @import url(../blocks/places/__text-conteiner/places__text-conteiner.css);
 @import url(../blocks/places/__paragraph/places__paragraph.css);
-@import url(../blocks/places/__paragraph-artist/kiev__paragraph-artist.css);
+@import url(../blocks/places/__paragraph-artist/places__paragraph-artist.css);
 @import url(../blocks/places/__link/link.css);
 @import url(../blocks/places/__image/places__image.css);
 @import url(../blocks/places/__heading/places__heading.css);
