@@ -2,7 +2,7 @@ body {
   background-color: #2A2C2F;
 }
 @media screen and ( max-width: 768px) {
-
+  
   /* header */
   .header {
     display: grid;
@@ -98,7 +98,7 @@ body {
 }
 
 /* muramvya */
-.muranvya {
+.muramvya {
   width: 733px;
   grid-column-gap: 28px;
 }
