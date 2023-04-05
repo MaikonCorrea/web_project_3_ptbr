@@ -2,7 +2,7 @@ body {
   background-color: #2A2C2F;
 }
 @media screen and ( max-width: 768px) {
-  
+
   /* header */
   .header {
     display: grid;
@@ -112,6 +112,10 @@ body {
 .visit__link {
   width: 191px;
  text-align: center;
+}
+.visit__overley{
+  width: 768px;
+  height: 746px;
 }
 
 }
