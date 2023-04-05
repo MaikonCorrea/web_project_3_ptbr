@@ -1,6 +1,5 @@
 .muramvya__text-conteiner {
-    display: flex;
+    display: grid;
     grid-row: 2 / 5;
-    flex-direction: column;
-    justify-content: space-between;
+    row-gap: 25px;
 }

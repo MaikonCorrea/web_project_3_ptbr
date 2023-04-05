@@ -1,0 +1,5 @@
+.places__text-conteiner {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 25px;
+}

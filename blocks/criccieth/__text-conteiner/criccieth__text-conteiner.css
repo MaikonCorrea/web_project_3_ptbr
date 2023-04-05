@@ -1,5 +1,5 @@
 .criccieth__text-conteiner {
-    display: flex;
-    grid-row: 2 / 4;
-    flex-wrap: wrap;
+  display: flex;
+  row-gap: 20px;
+  flex-wrap: wrap;
 }

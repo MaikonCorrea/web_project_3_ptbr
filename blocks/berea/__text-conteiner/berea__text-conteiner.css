@@ -1,5 +1,3 @@
 .berea__text-conteiner {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    display: grid;
 }

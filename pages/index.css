@@ -18,53 +18,39 @@
 @import url(../blocks/gallery/__image/gallery__image.css);
 /* places */
 @import url(../blocks/places/places.css);
+@import url(../blocks/places/title/places__title.css);
+@import url(../blocks/places/__text-conteiner/places__text-conteiner.css);
+@import url(../blocks/places/__paragraph/places__paragraph.css);
+@import url(../blocks/places/__paragraph-artist/kiev__paragraph-artist.css);
+@import url(../blocks/places/__link/link.css);
+@import url(../blocks/places/__image/places__image.css);
+@import url(../blocks/places/__heading/places__heading.css);
+@import url(../blocks/places/__artist-conteiner/places__artist-conteiner.css);
 /* kiev */
 @import url(../blocks/kiev/kiev.css);
-@import url(../blocks/kiev/__heading/kiev__heading.css);
-@import url(../blocks/kiev/__title/kiev__title.css);
-@import url(../blocks/kiev/__paragraph/kiev__paragraph.css);
-@import url(../blocks/kiev/__paragraph-artist/kiev__paragraph-artist.css);
-@import url(../blocks/kiev/__link/link.css);
-@import url(../blocks/kiev/__image/kiev__image.css);
-@import url(../blocks/kiev/__artist-conteiner/kiev__artist-conteiner.css);
-@import url(../blocks/kiev/__text-conteiner/kiev__text-conteiner.css);
+
 /* criccieth */
 @import url(../blocks/criccieth/criccieth.css);
-@import url(../blocks/criccieth/__title/criccieth__title.css);
-@import url(../blocks/criccieth/__image/criccieth__image.css);
-@import url(../blocks/criccieth/__heading/criccieth__heading.css);
-@import url(../blocks/criccieth/__artist-conteiner/criccieth__artist-conteiner.css);
-@import url(../blocks/criccieth/__paragraph-artist/criccieth__paragraph-artist.css);
-@import url(../blocks/criccieth/__link/criccieth__link.css);
-@import url(../blocks/criccieth/__paragraph/criccieth__paragraph.css);
+@import url(../blocks/criccieth/title/criccieth__title.css);
 @import url(../blocks/criccieth/__text-conteiner/criccieth__text-conteiner.css);
 /* berea */
-@import url(../blocks/berea/__artist-conteiner/berea__artist-conteiner.css);
-@import url(../blocks/berea/__heading/berea__heading.css);
-@import url(../blocks/berea/__image/berea__image.css);
-@import url(../blocks/berea/__link/berea__link.css);
-@import url(../blocks/berea/__paragraph-artist/berea__paragraph-artist.css);
-@import url(../blocks/berea/__paragraph/berea__paragraph.css);
-@import url(../blocks/berea/__text-conteiner/berea__text-conteiner.css);
-@import url(../blocks/berea/__title/berea__title.css);
 @import url(../blocks/berea/berea.css);
+
 /* muramvya */
 @import url(../blocks/muramvya/muramvya.css);
-@import url(../blocks/muramvya/__title/muramvya__title.css);
 @import url(../blocks/muramvya/__text-conteiner/muramvya__text-conteiner.css);
-@import url(../blocks/muramvya/__paragraph/muramvya__paragraph.css);
-@import url(../blocks/muramvya/__paragraph-artist/muramvya__paragraph-artist.css);
-@import url(../blocks/muramvya/__link/muramvya__link.css);
-@import url(../blocks/muramvya/__image/muramvya__image.css);
-@import url(../blocks/muramvya/__heading/muramvya__heading.css);
-@import url(../blocks/muramvya/__artist-conteiner/muramvya__artist-conteiner.css);
+
 /* novo hamburgo */
 @import url(../blocks/novo_hamburgo/novo_hamburgo.css);
-@import url(../blocks/novo_hamburgo/__title/novo_hamburgo__title.css);
 @import url(../blocks/novo_hamburgo/__text-conteiner/novo_hamburgo__text-conteiner.css);
-@import url(../blocks/novo_hamburgo/__paragraph/novo_hamburgo__paragraph.css);
-@import url(../blocks/novo_hamburgo/__paragraph-artist/novo_hamburgo__paragraph-artist.css);
-@import url(../blocks/novo_hamburgo/__link/novo_hamburgo__link.css);
-@import url(../blocks/novo_hamburgo/__image/novo_hamburgo__image.css);
-@import url(../blocks/novo_hamburgo/__heading/novo_hamburgo__heading.css);
-@import url(../blocks/novo_hamburgo/__artist-conteiner/novo_hamburgo__artist-conteiner.css);
+
+/* visit */
+@import url(../blocks/visit/visit.css);
+@import url(../blocks/visit/__title/visit__title.css);
+@import url(../blocks/visit/__position/visit__position.css);
+@import url(../blocks/visit/__paragraph/visit__paragraph.css);
+@import url(../blocks/visit/__link/visit__link.css);
+@import url(../blocks/visit/__image/visit__image.css);
+@import url(../blocks/visit/__overley/visit__overley.css);
+/* footer */
+@import url(../blocks/footer/__copyright/footer__copyright.css);

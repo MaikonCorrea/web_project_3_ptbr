@@ -2,11 +2,11 @@
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
-    line-height: 36px;
-    Width: 720px;
+    font-size: 1.875rem;
+    line-height: 2rem;
+    max-Width: 720px;
     text-align: center;
     color: #FFFFFF;
-    margin-top: 32px;
-    margin-bottom: 64px;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
     }

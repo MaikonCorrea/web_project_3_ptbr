@@ -1,3 +1,4 @@
 .places {
-    width: 987px;
-    }
+ display: grid;
+ justify-items: center
+}

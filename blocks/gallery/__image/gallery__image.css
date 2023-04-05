@@ -1,4 +1,4 @@
 .gallery__image {
-    Width: 284px;
-    Height: 213px;
+    max-Width: 284px;
+    max-Height: 213px;
 }
