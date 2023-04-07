@@ -3,3 +3,10 @@
   height: 740px;
   z-index: 1;
 }
+@media screen and ( max-width: 768px) {
+  .visit__image{
+    width: 768px;
+    height: 746px;
+  }
+
+  }

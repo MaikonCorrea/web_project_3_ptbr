@@ -2,3 +2,10 @@
     max-Width: 284px;
     max-Height: 213px;
 }
+
+@media screen and ( max-width: 768px) {
+  .gallery__image {
+    max-width: 352px;
+    min-height: 264px;
+  }
+}

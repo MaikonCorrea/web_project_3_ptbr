@@ -4,3 +4,10 @@
     position: absolute;
     z-index: 1;
 }
+
+@media screen and ( max-width: 768px) {
+  .visit__overley{
+    width: 768px;
+    height: 746px;
+  }
+  }

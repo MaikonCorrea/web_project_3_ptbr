@@ -1,5 +1,5 @@
-.places__title{
-  width: 460px;
+.city__title-place{
+    width: 484px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 900;
@@ -8,4 +8,11 @@
     /* or 106% */
     color: #FFFFFF;
     margin: 0;
+}
+@media screen and ( max-width: 768px) {
+  .city__title-place {
+    width: 340px;
+    font-size: 42px;
+    line-height: 46px;
+  }
 }

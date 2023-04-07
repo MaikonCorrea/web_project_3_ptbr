@@ -1,4 +1,4 @@
-.places__paragraph-artist {
+.city__discription-artist {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -9,3 +9,8 @@
     margin: 0;
     }
 
+    @media screen and ( max-width: 768px) {
+      .city__discription-artist {
+        width: 365px;
+      }
+    }

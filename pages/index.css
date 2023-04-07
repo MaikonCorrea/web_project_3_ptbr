@@ -18,32 +18,16 @@
 @import url(../blocks/gallery/__image/gallery__image.css);
 /* places */
 @import url(../blocks/places/places.css);
-@import url(../blocks/places/title/places__title.css);
-@import url(../blocks/places/__text-conteiner/places__text-conteiner.css);
-@import url(../blocks/places/__paragraph/places__paragraph.css);
-@import url(../blocks/places/__paragraph-artist/places__paragraph-artist.css);
-@import url(../blocks/places/__link/link.css);
-@import url(../blocks/places/__image/places__image.css);
-@import url(../blocks/places/__heading/places__heading.css);
-@import url(../blocks/places/__artist-conteiner/places__artist-conteiner.css);
-/* kiev */
-@import url(../blocks/kiev/kiev.css);
-
-/* criccieth */
-@import url(../blocks/criccieth/criccieth.css);
-@import url(../blocks/criccieth/title/criccieth__title.css);
-@import url(../blocks/criccieth/__text-conteiner/criccieth__text-conteiner.css);
-/* berea */
-@import url(../blocks/berea/berea.css);
-
-/* muramvya */
-@import url(../blocks/muramvya/muramvya.css);
-@import url(../blocks/muramvya/__text-conteiner/muramvya__text-conteiner.css);
-
-/* novo hamburgo */
-@import url(../blocks/novo_hamburgo/novo_hamburgo.css);
-@import url(../blocks/novo_hamburgo/__text-conteiner/novo_hamburgo__text-conteiner.css);
-
+/* city */
+@import url(../blocks/city/city.css);
+@import url(../blocks/city/__artist-conteiner/city__artist-conteiner.css);
+@import url(../blocks/city/__discription-artist/city__discription-artist.css);
+@import url(../blocks/city/__discription-place/city__discription-place.css);
+@import url(../blocks/city/__heading-artist/city__heading-artist.css);
+@import url(../blocks/city/__image-place/city__image-place.css);
+@import url(../blocks/city/__link/link.css);
+@import url(../blocks/city/__text-conteiner/city__text-conteiner.css);
+@import url(../blocks/city/__title-place/city__title-place.css);
 /* visit */
 @import url(../blocks/visit/visit.css);
 @import url(../blocks/visit/__title/visit__title.css);

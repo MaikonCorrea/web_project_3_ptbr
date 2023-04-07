@@ -1,4 +1,4 @@
-.places__link {
+.city__link {
     width: 315px;
     font-family: 'Inter';
     font-style: normal;
@@ -13,7 +13,7 @@
     display: flex;
 }
 
-    .places__link:hover {
+    .city__link:hover {
         background: #0063D2;
         border-radius: 4px;
     }

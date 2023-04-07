@@ -1,0 +1,14 @@
+.city__text-conteiner {
+  display: flex;
+  grid-row: 2 / 5;
+  row-gap: 25px;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+@media screen and ( max-width: 768px) {
+  .city__text-conteiner {
+    grid-row: 2 / 5;
+  }
+
+    }
