@@ -9,8 +9,8 @@
     padding: 13px 20px;
     background: #0278FE;
     text-decoration: none;
-    text-align: center;
     display: flex;
+    justify-content: center;
 }
 
     .city__link:hover {
@@ -18,10 +18,11 @@
         border-radius: 4px;
     }
 
-    @media screen and ( max-width: 320px) {
+    @media screen and (max-width: 320px) {
       .city__link {
       width: 288px;
       font-size: 14px;
       line-height: 17px;
+
       }
     }

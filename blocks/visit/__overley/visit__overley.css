@@ -15,5 +15,6 @@
   @media screen and ( max-width: 320px) {
     .visit__overley {
       width: 320px;
+      height: 254px;
       }
   }
