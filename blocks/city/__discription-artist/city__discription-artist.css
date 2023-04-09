@@ -14,3 +14,8 @@
         width: 365px;
       }
     }
+    @media screen and ( max-width: 320px) {
+      .city__discription-artist {
+      width: 288px;
+      }
+    }

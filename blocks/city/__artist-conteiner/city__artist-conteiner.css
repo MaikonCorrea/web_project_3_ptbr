@@ -3,3 +3,9 @@
     flex-direction: column;
     justify-content: flex-end;
 }
+
+@media screen and ( max-width: 320px) {
+  .city__artist-conteiner {
+    grid-row: 2; 
+    }
+}

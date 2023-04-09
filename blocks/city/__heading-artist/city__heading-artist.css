@@ -12,3 +12,9 @@
     text-decoration: none;
     margin-bottom: 8px;
     }
+
+    @media screen and ( max-width: 320px) {
+      .city__heading-artist {
+      width: 288px;
+      }
+    }

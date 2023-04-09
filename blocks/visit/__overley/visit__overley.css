@@ -11,3 +11,9 @@
     height: 746px;
   }
   }
+
+  @media screen and ( max-width: 320px) {
+    .visit__overley {
+      width: 320px;
+      }
+  }

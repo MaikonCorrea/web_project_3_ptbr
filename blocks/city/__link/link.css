@@ -17,3 +17,11 @@
         background: #0063D2;
         border-radius: 4px;
     }
+
+    @media screen and ( max-width: 320px) {
+      .city__link {
+      width: 288px;
+      font-size: 14px;
+      line-height: 17px;
+      }
+    }

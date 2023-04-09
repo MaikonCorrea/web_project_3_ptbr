@@ -10,3 +10,10 @@
   }
 
   }
+
+  @media screen and ( max-width: 320px) {
+    .visit__image {
+    max-width: 320px;
+    max-height: 254px;
+      }
+  }

@@ -10,3 +10,12 @@
         height: 340px;
       }
     }
+
+    @media screen and ( max-width: 320px) {
+      .city__image-place {
+        width: 320px;
+        height: 320px;
+        grid-row: 3;
+        grid-column: 1;
+      }
+    }

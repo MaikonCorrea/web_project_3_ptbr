@@ -10,3 +10,11 @@
   margin: 0;
   text-align: center;
 }
+
+@media screen and ( max-width: 320px) {
+  .visit__title {
+  width: 288px;
+  font-size: 32px;
+  line-height: 35px;
+    }
+}

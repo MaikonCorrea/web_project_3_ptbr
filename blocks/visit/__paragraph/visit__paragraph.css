@@ -10,3 +10,12 @@
   color: #FFFFFF;
   margin: 32px 0;
   }
+
+  @media screen and ( max-width: 320px) {
+    .visit__paragraph {
+    width: 288px;
+    font-size: 14px;
+    line-height: 16px;
+    margin: 16px 0;
+      }
+  }

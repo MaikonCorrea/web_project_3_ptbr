@@ -8,3 +8,11 @@
     width: 722px;
     margin: 0;
 }
+
+@media screen and ( max-width: 320px) {
+  .introduction__paragraph-quote {
+    width: 288px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+}

@@ -9,3 +9,9 @@ margin: auto;
     max-width: 768px;
   }
       }
+
+@media screen and ( max-width: 320px) {
+  .header__image {
+    max-width: 320px;
+  }
+      }

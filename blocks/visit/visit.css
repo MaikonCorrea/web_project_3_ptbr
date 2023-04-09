@@ -5,3 +5,12 @@ justify-content: center;
 margin-bottom: 90px;
 margin-top: 92px;
 }
+
+
+@media screen and ( max-width: 320px) {
+  .visit {
+    margin-top: 64px;
+    margin-bottom: 64px;
+    
+    }
+}
