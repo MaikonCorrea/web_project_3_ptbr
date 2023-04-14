@@ -1,10 +1,9 @@
 .visit__link {
   max-width: 191px;
-  font-family: 'Inter';
   font-style: normal;
   font-weight: 600;
-  font-size: 18px;
-  line-height: 22px;
+  font-size: 1.125rem;
+  line-height: 1.375rem;
   padding: 13px 20px;
   background-color: #0278FE;
   color: #FFFFFF;

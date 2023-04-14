@@ -1,20 +1,17 @@
 .visit__title {
-  width: 656px;
-  font-family: 'Inter';
+  max-width: 656px;
   font-style: normal;
   font-weight: 900;
-  font-size: 72px;
-  line-height: 76px;
-  /* identical to box height, or 106% */
+  font-size: 4.5rem;
+  line-height: 4.75rem;
   color: #FFFDFD;
-  margin: 0;
   text-align: center;
 }
 
 @media screen and ( max-width: 320px) {
   .visit__title {
-  width: 288px;
-  font-size: 32px;
-  line-height: 35px;
+  max-width: 288px;
+  font-size: 2rem;
+  line-height: 2.187rem;
     }
 }
