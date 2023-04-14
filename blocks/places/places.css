@@ -1,6 +1,6 @@
 .places {
  display: grid;
- justify-items: center
+ justify-items: center;
 }
 
 @media screen and ( max-width: 768px) {
