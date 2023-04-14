@@ -1,5 +1,5 @@
 .city {
-  width: 984px;
+  max-width: 984px;
   display: grid;
   grid-template-columns: repeat(2, auto);
   grid-template-rows: repeat(3, auto);
@@ -11,7 +11,7 @@
 
   @media screen and ( max-width: 768px) {
     .city {
-      width: 733px;
+      max-width: 733px;
       grid-column-gap: 28px;
     }
   }

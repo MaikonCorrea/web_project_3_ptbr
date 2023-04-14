@@ -1,20 +1,19 @@
 .city__discription-artist {
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 22px;
+    font-size: 1.125rem;
+    line-height: 1.375rem;
     max-width: 456px;
     color: #FFFFFF;
-    margin: 0;
     }
 
     @media screen and ( max-width: 768px) {
       .city__discription-artist {
-        width: 365px;
+        max-width: 365px;
       }
     }
     @media screen and ( max-width: 320px) {
       .city__discription-artist {
-      width: 288px;
+      max-width: 288px;
       }
     }

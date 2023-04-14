@@ -1,27 +1,25 @@
 .city__title-place{
-    width: 484px;
-    font-family: 'Inter';
+    max-width: 484px;
     font-style: normal;
     font-weight: 900;
-    font-size: 72px;
-    line-height: 76px;
-    /* or 106% */
+    font-size: 4.5rem;
+    line-height: 4.75rem;
     color: #FFFFFF;
-    margin: 0;
 }
+
 @media screen and ( max-width: 768px) {
   .city__title-place {
-    width: 340px;
-    font-size: 42px;
-    line-height: 46px;
+    max-width: 340px;
+    font-size: 2.625rem;
+    line-height: 2.875rem;
   }
 }
 
 @media screen and ( max-width: 320px) {
   .city__title-place {
-    width: 288px;
-    font-size: 32px;
-    line-height: 35px;
+    max-width: 288px;
+    font-size: 2rem;
+    line-height: 2.187rem;
     display: grid;
     grid-column: 1;
     grid-row: 1;

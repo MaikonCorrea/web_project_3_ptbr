@@ -2,8 +2,8 @@
     width: 355px;
     font-style: normal;
     font-weight: 600;
-    font-size: 18px;
-    line-height: 22px;
+    font-size: 1.125rem;
+    line-height: 1.375rem;
     color: #FFFFFF;
     padding: 13px 20px;
     background: #0278FE;
@@ -20,8 +20,7 @@
     @media screen and (max-width: 320px) {
       .city__link {
       width: 288px;
-      font-size: 14px;
-      line-height: 17px;
-
+      font-size: 0.875rem;
+      line-height: 1.062rem;
       }
     }

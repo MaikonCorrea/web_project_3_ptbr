@@ -2,12 +2,11 @@
     max-width: 58px;
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
-    line-height: 15px;
+    font-size: 0.75rem;
+    line-height: 0.937rem;
     letter-spacing: 0.12em;
     text-transform: uppercase;
     color: #AAAAAA;
-    margin: 0;
     text-decoration: none;
     margin-bottom: 8px;
     }
