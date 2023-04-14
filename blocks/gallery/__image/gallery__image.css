@@ -1,17 +1,17 @@
 .gallery__image {
-    Width: 284px;
-    Height: 213px;
+    max-Width: 284px;
+    max-Height: 213px;
 }
 
 @media screen and ( max-width: 768px) {
   .gallery__image {
-    width: 352px;
-    height: 264px;
+    max-width: 352px;
+    max-height: 264px;
   }
 }
 @media screen and ( max-width: 320px) {
   .gallery__image {
-    width: 288px;
-    height: 216px;
+    max-width: 288px;
+    max-height: 216px;
 }
 }

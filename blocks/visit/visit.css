@@ -2,8 +2,7 @@
 display: flex;
 align-items: center;
 justify-content: center;
-margin-bottom: 90px;
-margin-top: 92px;
+margin: 90px auto 92px auto;
 }
 
 
@@ -11,6 +10,6 @@ margin-top: 92px;
   .visit {
     margin-top: 64px;
     margin-bottom: 64px;
-    
+
     }
 }

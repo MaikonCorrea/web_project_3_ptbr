@@ -7,12 +7,14 @@
   .places {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    margin-left: 24px;
+    margin-right: 11px;
     }
 }
 
 @media screen and ( max-width: 320px) {
   .places {
     align-items: center;
+    margin: 0;
     }
 }

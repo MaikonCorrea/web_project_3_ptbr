@@ -1,5 +1,5 @@
 .visit__link {
-  width: 151px;
+  max-width: 191px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 600;
@@ -8,19 +8,10 @@
   padding: 13px 20px;
   background-color: #0278FE;
   color: #FFFFFF;
-  margin: 0;
   text-decoration: none;
   }
 
 .visit__link:hover {
 background: #0063D2;;
 border-radius: 4px;
-  }
-
-  @media screen and ( max-width: 768px) {
-
-    .visit__link {
-      width: 191px;
-     text-align: center;
-    }
   }

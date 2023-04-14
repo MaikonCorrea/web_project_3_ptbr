@@ -1,5 +1,5 @@
 .visit__paragraph {
-  width: 280px;
+  max-width: 280px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -13,7 +13,6 @@
 
   @media screen and ( max-width: 320px) {
     .visit__paragraph {
-    width: 288px;
     font-size: 14px;
     line-height: 16px;
     margin: 16px 0;

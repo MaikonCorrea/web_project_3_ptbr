@@ -7,14 +7,14 @@
 
 @media screen and ( max-width: 768px) {
   .visit__overley{
-    width: 768px;
-    height: 746px;
+    max-width: 768px;
+    max-height: 746px;
   }
   }
 
   @media screen and ( max-width: 320px) {
     .visit__overley {
-      width: 320px;
-      height: 254px;
+      max-width: 320px;
+      max-height: 254px;
       }
   }

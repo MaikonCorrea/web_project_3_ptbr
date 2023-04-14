@@ -1,16 +1,7 @@
 .footer {
-  width: 1280px;
-  margin-bottom: 24px;
+  margin: auto;
+  width: 163px;
+  height: 14px;
+  margin: 0 auto 24px auto;
   }
 
-  @media screen and ( max-width: 768px) {
-    .footer{
-      width: 768px;
-    }
-  }
-
-  @media screen and ( max-width: 320px) {
-    .footer{
-     width: 320px;
-      }
-  }

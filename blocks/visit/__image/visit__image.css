@@ -1,12 +1,12 @@
 .visit__image {
-  width: 1184px;
-  height: 740px;
+  max-width: 1184px;
+  max-height: 740px;
   z-index: 1;
 }
 @media screen and ( max-width: 768px) {
   .visit__image{
-    width: 768px;
-    height: 746px;
+    max-width: 768px;
+    max-height: 746px;
   }
 
   }
