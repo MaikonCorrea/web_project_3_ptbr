@@ -3,7 +3,7 @@
 
 ![De Pátria para Pátria](https://user-images.githubusercontent.com/121962633/231927129-c4898e36-0590-4ec2-ac3a-8338c4f21892.png)
 
-Este projeto foi elaborado pela [Practicum](https://practicum.com/pt-bra/), testando os conhecimentos mais avançados com o uso de responsividade, com base nas metodologias mais usadas nas grandes empresas.
+Este projeto foi elaborado pela [Practicum](https://practicum.com/pt-bra/), para colocar em prática os conhecimentos mais avançados de HTML5 e CSS3 com o uso de responsividade,sempre pensando nas metodologias mais usadas nas grandes empresas.
 ---
 ---
 
@@ -22,6 +22,9 @@ Este desenvolvimento foi feito com base no layout do Figma, obtendo as configura
 ![modelo desktop](https://user-images.githubusercontent.com/121962633/231929632-add3bb4a-ed5b-4500-85fa-8cc4d1e29dbc.png)
 ![modelo tablet](https://user-images.githubusercontent.com/121962633/231929649-d7a9c7ee-00f3-4ff6-8877-f604b3f35a6c.png)
 
+---
+### _acesse a página e confira como ficou todo o projeto!_
+* [De Pátria para Pátria]( https://maikoncorrea.github.io/web_project_3_ptbr/)
 ---
 
 ### _Autor_
