@@ -1,8 +1,8 @@
 .introduction__paragraph-author {
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 34px;
+    font-size: 1.5rem;
+    line-height: 2.125rem;
     color: #FFFFFF;
     max-width: 720px;
     display: flex;
@@ -12,9 +12,8 @@
 
 @media screen and ( max-width: 320px) {
   .introduction__paragraph-author {
-    width: 288px;
-    font-size: 24px;
-    line-height: 30px;
+    max-width: 288px;
+    line-height: 1.875rem;
     margin-top: 10px;
     margin-bottom: 18px;
   }
